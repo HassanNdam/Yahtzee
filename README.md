@@ -15,4 +15,4 @@ Le jeu du Yam's (ou aussi Yahtzee) est un jeu de dés qui se joue seul ou à plu
 
 Docker compose up 
 
-Par Ndam pour HETIC
+Par Hassan Ndam pour HETIC
